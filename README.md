@@ -1,2 +1,4 @@
 # COMP-3700
-COMP 3700 - Software Modeling and Design
+COMP-3700 Projects
+
+Software Modeling and Design
